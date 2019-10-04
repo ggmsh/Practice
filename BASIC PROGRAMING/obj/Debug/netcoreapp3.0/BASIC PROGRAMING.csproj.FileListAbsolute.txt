@@ -1,0 +1,11 @@
+D:\Gaurav\C#\BASIC PROGRAMING\bin\Debug\netcoreapp3.0\BASIC PROGRAMING.exe
+D:\Gaurav\C#\BASIC PROGRAMING\bin\Debug\netcoreapp3.0\BASIC PROGRAMING.deps.json
+D:\Gaurav\C#\BASIC PROGRAMING\bin\Debug\netcoreapp3.0\BASIC PROGRAMING.runtimeconfig.json
+D:\Gaurav\C#\BASIC PROGRAMING\bin\Debug\netcoreapp3.0\BASIC PROGRAMING.runtimeconfig.dev.json
+D:\Gaurav\C#\BASIC PROGRAMING\bin\Debug\netcoreapp3.0\BASIC PROGRAMING.dll
+D:\Gaurav\C#\BASIC PROGRAMING\bin\Debug\netcoreapp3.0\BASIC PROGRAMING.pdb
+D:\Gaurav\C#\BASIC PROGRAMING\obj\Debug\netcoreapp3.0\BASIC PROGRAMING.csprojAssemblyReference.cache
+D:\Gaurav\C#\BASIC PROGRAMING\obj\Debug\netcoreapp3.0\BASIC PROGRAMING.AssemblyInfoInputs.cache
+D:\Gaurav\C#\BASIC PROGRAMING\obj\Debug\netcoreapp3.0\BASIC PROGRAMING.AssemblyInfo.cs
+D:\Gaurav\C#\BASIC PROGRAMING\obj\Debug\netcoreapp3.0\BASIC PROGRAMING.dll
+D:\Gaurav\C#\BASIC PROGRAMING\obj\Debug\netcoreapp3.0\BASIC PROGRAMING.pdb
